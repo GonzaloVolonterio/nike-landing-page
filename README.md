@@ -4,12 +4,10 @@
 ### Built With
 
 ```
-
 React
 Vite
 Javascript
 Tailwind CSS
-
 ```
 
 ### Clone repo 🔧
