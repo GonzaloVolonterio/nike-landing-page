@@ -1,7 +1,6 @@
 # Nike Landing Page
 
 
-
 ### Built With
 
 ```
@@ -11,13 +10,11 @@ Vite
 Javascript
 Tailwind CSS
 
-
 ```
 
 ### Clone repo 🔧
 
 ```
-
 https://github.com/GonzaloVolonterio/nike-landing-page
 
 ```
