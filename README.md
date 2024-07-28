@@ -1,3 +1,6 @@
+
+![tailwind-full-crash-course-jsmastery-nike-landing-page-pic](https://github.com/user-attachments/assets/948db02b-100e-4609-8c19-cfcc1afd791a)
+
 # Nike Landing Page
 
 
@@ -29,8 +32,6 @@ npm run dev
 ### Live
 
 https://nike-landing-page-rv.netlify.app/
-
-
 
 
 ### Examples App
